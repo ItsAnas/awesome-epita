@@ -1,13 +1,13 @@
-# awesome-epita
+# 🌟 awesome-epita
 This repository tries to regroup every learning sources made by student
 
 
-## Exams
+## 🚨 Exams
 
 http://mastercorp.epita.eu
 https://epiportal.com
 
-## Lessons
+## 📚 Lessons
 
 ### ING1
 
