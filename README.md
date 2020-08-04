@@ -1,6 +1,8 @@
 # 🌟 awesome-epita
 This repository tries to regroup every learning sources made by student
 
+> Note: Do not hesitate to contribute. You can make an issue or a pull request directly.
+> If you are the author of a link listed below and want to delete it, open an issue with a proof that you are the author if it's not obvious
 
 ## 🚨 Exams
 
