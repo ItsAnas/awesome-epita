@@ -5,6 +5,22 @@ This repository tries to regroup every learning sources made by student
 > Note: Do not hesitate to contribute. You can make an issue or a pull request directly. Precise the promo if you can.
 > If you are the author of a link listed below and want to delete it, open an issue with a proof that you are the author if it's not obvious
 
+Table of Contents
+=================
+
+   * [<g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">🌟</g-emoji> awesome-epita](#-awesome-epita)
+      * [<g-emoji class="g-emoji" alias="rotating_light" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a8.png">🚨</g-emoji> Exams](#-exams)
+      * [<g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> Lessons](#-lessons)
+         * [SUP](#sup)
+            * [2023](#2023)
+         * [SPE](#spe)
+            * [2023](#2023-1)
+         * [ING1](#ing1)
+            * [2021](#2021)
+            * [2020](#2020)
+
+Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
+
 ## 🚨 Exams
 
 - [Mastercorp](http://mastercorp.epita.eu)
