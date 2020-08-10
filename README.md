@@ -45,6 +45,12 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 Ordered by promo
 
+#### 2022
+
+- https://lemasyma.github.io/cours
+- https://annales.hyperion.tf/
+- https://ing1.rhaeven.eu/
+
 #### 2021
 
 - https://itsanas.github.io/ing1-notes/
