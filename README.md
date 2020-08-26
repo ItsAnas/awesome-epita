@@ -54,6 +54,7 @@ Ordered by promo
 #### 2021
 
 - https://itsanas.github.io/ing1-notes/
+- https://github.com/ShaigroRB/cours-ing1
 
 #### 2020
 
