@@ -18,6 +18,10 @@ Table of Contents
          * [ING1](#ing1)
             * [2021](#2021)
             * [2020](#2020)
+         * [ING2](#ing2)
+            * [2021](#2021-1)
+         * [ING3](#ing3)
+            * [2021](#2021-2)
 
 Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
@@ -54,9 +58,23 @@ Ordered by promo
 #### 2021
 
 - https://itsanas.github.io/ing1-notes/
-- https://github.com/ShaigroRB/cours-ing1
+- https://shaigrorb.github.io/notes-epita-ing/#ing1-notes
 
 #### 2020
 
 - https://github.com/flomonster/Cours-Ing1
 - https://github.com/bjorn-grape/Cours-S6
+
+### ING2
+
+Ordered by promo
+
+#### 2021
+- https://shaigrorb.github.io/notes-epita-ing/#ing2-notes
+
+### ING3
+
+Ordered by promo
+
+#### 2021
+- https://shaigrorb.github.io/notes-epita-ing/#ing3-notes
