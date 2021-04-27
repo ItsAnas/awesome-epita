@@ -70,11 +70,11 @@ Ordered by promo
 Ordered by promo
 
 #### 2021
-- https://shaigrorb.github.io/notes-epita-ing/#ing2-notes
+- https://shaigrorb.github.io/notes-epita-ing/#ing2-notes - Contains notes for MTI specialization
 
 ### ING3
 
 Ordered by promo
 
 #### 2021
-- https://shaigrorb.github.io/notes-epita-ing/#ing3-notes
+- https://shaigrorb.github.io/notes-epita-ing/#ing3-notes - Contains notes for MTI specialization
